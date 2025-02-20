@@ -1,0 +1,61 @@
+header {
+     background-image:url('header.jpg');
+ background-size:cover;
+ background-position:center;
+ background-repeat:no-repeat;
+padding: 200px;
+text-align: left;
+position: center;
+color:black;
+font-family: fantasy ;
+font-size:50px;
+}
+    
+.main {
+    text-align: justify;
+    color: white;
+    padding:100px ;  
+    background-color:#000000;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+
+.sec1 {
+    font-size: 40px;
+    text-align: justify;
+    color: black;
+    background-image:url('bg.jpg');
+    background-size:cover;
+    background-position:center;
+    background-repeat:no-repeat;
+    padding:20px;
+    font-family: Arial, sans-serif;
+}
+
+.sec2 {
+    font-size: 40px;
+    text-align: justify;
+    color: white;
+    background-color: #000000;
+    padding:80px;
+    font-family: sans-serif;
+}
+.sec3 {
+  font-size: 40px;
+  text-align: center;
+  color: #C0C0C0;
+  background-image: url('sec3.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 50px;
+  font-family: sans-serif;
+}
+.footer {
+    text-align: center;
+    font-size: 15px;
+    color:#000000;
+    background-color: #FFFFFF;
+    padding: 15px;
+    font-family: sans-serif;
+}
